@@ -1,0 +1,30 @@
+*{
+  margin: 0px;
+  padding: 0px;
+ 
+}
+
+.main-container {
+
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh; 
+  background-color: slateblue; 
+  
+}
+
+.row {
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+}
+
+.squaree{
+  width: 100px;
+  height: 100px;
+  border: 3px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white; 
+}
